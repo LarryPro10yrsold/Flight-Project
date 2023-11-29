@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "content": "do homework",
+      "description": "item number 1"
+    },
+    {
+      "content": "task",
+      "description": "item number 2",
+      "id": 2
+    },
+    {
+      "content": "task 2",
+      "description": "MUST DO",
+      "id": 3
+    },
+    {
+      "content": "sdfsdf",
+      "description": "sdfsdf",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "drink": "beer",
+      "price": "$10",
+      "expireDate": "2023, November 16",
+      "id": 1
+    },
+    {
+      "drink": "asdasd",
+      "price": "asdasd",
+      "expireDate": "asda",
+      "id": 2
+    },
+    {
+      "drink": "Tiger",
+      "price": "$7",
+      "expireDate": "10/2/2024",
+      "id": 3
+    }
+  ]
+}
